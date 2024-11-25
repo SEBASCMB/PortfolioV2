@@ -1,4 +1,4 @@
-import logo from "@/assets/raviKumarLogo.webp"
+import logo from "@/assets/sebastianLogo.webp"
 import { FaLinkedin, FaGithub } from "react-icons/fa"
 
 const Navbar = () => {
@@ -6,7 +6,7 @@ const Navbar = () => {
     <nav className="flex items-center justify-between py-6">
       <div className="flex flex-shrink-0 items-center">
         <a href="/" aria-label="Home">
-          <img src={logo} className="mx-2" width={50} height={33} alt="Logo" />
+          <img src={logo} className="mx-2 invert" width={50} height={33} alt="Logo" />
         </a>
       </div>
       <div className="m-8 flex items-center justify-center gap-4 text-2xl">
