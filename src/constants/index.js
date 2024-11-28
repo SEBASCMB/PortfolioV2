@@ -1,6 +1,6 @@
 import project1 from "@/assets/projects/project-1.webp";
 
-export const HERO_CONTENT = `Soy un apasionado desarrollador frontend con 6 meses de experiencia en tecnologías como React y HTML Css JavaScript. Me especializo en crear soluciones escalables y de alto rendimiento. Mi objetivo es aplicar mis habilidades para desarrollar aplicaciones innovadoras que impulsen el crecimiento del negocio y brinden experiencias excepcionales.`;
+export const HERO_CONTENT = `Soy un apasionado desarrollador frontend con 1 año de experiencia en tecnologías como React y HTML Css JavaScript. Me especializo en crear soluciones escalables y de alto rendimiento. Mi objetivo es aplicar mis habilidades para desarrollar aplicaciones innovadoras que impulsen el crecimiento del negocio y brinden experiencias excepcionales.`;
 
 export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
 
